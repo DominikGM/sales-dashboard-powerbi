@@ -1,3 +1,8 @@
+Sales Performance Dashboard (Power BI)
+
+![Dashboard Preview]
+https://github.com/DominikGM/sales-dashboard-powerbi/blob/main/screenshot.png.png
+
 📌 Project Overview
 This project is an interactive Sales Dashboard built in Power BI, presenting sales performance for 2023–2024.
 It includes monthly and quarterly trends, a total sales KPI, and a date range filter.
